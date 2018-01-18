@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">多言語システムショー</string>
+    <string name="btn_submit">提出</string>
+    <string name="tv_msg">こんにちは世界</string>
+    <string name="message">こんにちは、Leon</string>
+</resources>

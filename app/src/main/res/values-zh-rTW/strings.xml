@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">多國語系展示</string>
+    <string name="btn_submit">送出</string>
+    <string name="tv_msg">你好全世界</string>
+    <string name="message">你好,里昂</string>
+</resources>
